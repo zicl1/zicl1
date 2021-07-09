@@ -2,7 +2,7 @@
 
 ![zichenlbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=zichenlbl&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenlbl&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenlbl)
 
 <!-- 
 ![zichenlbl's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zichenlbl)
