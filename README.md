@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Little Turtle.
 - ⚡ Fun fact: The sun went round again.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenlbl)](https://github.com/zichenlbl)
-
 [![zichenlbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=zichenlbl&show_icons=true)](https://github.com/zichenlbl)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenlbl)](https://github.com/zichenlbl)
 
 <!-- ![zichenlbl's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zichenlbl)
 <a href="https://github.com/zichenlbl/git">
