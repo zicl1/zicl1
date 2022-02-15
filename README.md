@@ -1,5 +1,5 @@
 <!--
-**zxuqian/zxuqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 My name is zichen.
 
 [中文版](https://github.com/zichenlbl/zichenlbl/blob/main/README_zh-CN.md)
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java Basics.
 - 🌱 I’m currently learning Java collections and IO flow.
