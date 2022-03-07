@@ -18,9 +18,9 @@ My name is zichen.
 
 [中文版](https://github.com/zichenlbl/zichenlbl/blob/main/README_zh-CN.md)
 
-- 🔭 I’m currently working on Java Basics.
-- 🌱 I’m currently learning Java collections and IO flow.
-- 👯 I’m looking to collaborate on Learn about springboot.
+- 🔭 I’m currently working on Wechat applet.
+- 🌱 I’m currently learning Wechat applet.
+- 👯 I’m looking to collaborate on Wechat applet.
 - 🤔 I’m looking for help with internship.
 - 💬 Ask me about How to use springboot.
 - 📫 How to reach me: zichen1016@qq.com.
