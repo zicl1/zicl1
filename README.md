@@ -18,11 +18,11 @@ My name is zichen.
 
 [中文版](https://github.com/zichenlbl/zichenlbl/blob/main/README_zh-CN.md)
 
-- 🔭 I’m currently working on Wechat applet.
-- 🌱 I’m currently learning Wechat applet.
-- 👯 I’m looking to collaborate on Wechat applet.
+- 🔭 I’m currently working on .Net Core.
+- 🌱 I’m currently learning .Net Core.
+- 👯 I’m looking to collaborate on .Net Core.
 - 🤔 I’m looking for help with internship.
-- 💬 Ask me about How to use springboot.
+- 💬 Ask me about How to use java springboot.
 - 📫 How to reach me: zichen1016@qq.com.
 - 😄 Pronouns: Little Turtle.
 - ⚡ Fun fact: The sun went round again.
