@@ -21,7 +21,7 @@ My name is zichen.
 - 🔭 I’m currently working on .Net Core.
 - 🌱 I’m currently learning .Net Core.
 - 👯 I’m looking to collaborate on .Net Core.
-- 🤔 I’m looking for help with internship.
+- 🤔 I’m looking for help with .Net Core.
 - 💬 Ask me about How to use java springboot.
 - 📫 How to reach me: zichen1016@qq.com.
 - 😄 Pronouns: Little Turtle.
