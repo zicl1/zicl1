@@ -19,7 +19,7 @@ My name is zichen.
 - 🤔 I’m looking for help with .Net Core.
 - 💬 Ask me about How to use java springboot.
 - 📫 How to reach me: zichen1016@qq.com.
-- 😄 Pronouns: Little Turtle.
+- 😄 Pronouns: little tortoise<!--Little Turtle-->.
 - ⚡ Fun fact: The sun went round again.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenlbl)](https://github.com/zichenlbl)
