@@ -7,7 +7,7 @@
 - 👯 我希望能在学习.Net Core知识这方面进行合作。
 - 🤔 我在寻求.Net Core的帮助。
 - 💬 问我如何使用Java SpringBoot构建项目。
-- 📫 怎么联系我: zichen1016@qq.com。
+- 📫 怎么联系我: zicl@qq.com。
 - 😄 代名词: 小乌龟。
 - ⚡ 趣事: 太阳又转了一圈。
 
