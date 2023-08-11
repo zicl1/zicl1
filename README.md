@@ -18,7 +18,7 @@ My name is zichen.
 - 👯 I’m looking to collaborate on .Net Core.
 - 🤔 I’m looking for help with .Net Core.
 - 💬 Ask me about How to use java springboot.
-- 📫 How to reach me: zichen1016@qq.com.
+- 📫 How to reach me: zicl@qq.com.
 - 😄 Pronouns: little tortoise<!--Little Turtle-->.
 - ⚡ Fun fact: The sun went round again.
 
