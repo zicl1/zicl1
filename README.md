@@ -17,7 +17,7 @@ My name is zichen.
 - 🌱 I’m currently learning .Net Core.
 - 👯 I’m looking to collaborate on .Net Core.
 - 🤔 I’m looking for help with .Net Core.
-- 💬 Ask me about How to use java springboot.
+- 💬 Ask me about How to use winform.
 - 📫 How to reach me: zicl@qq.com.
 - 😄 Pronouns: little tortoise<!--Little Turtle-->.
 - ⚡ Fun fact: The sun went round again.
