@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 ### Hi there 👋
 My name is zichen.
 [中文版](https://github.com/zichenlbl/zichenlbl/blob/main/README_zh-CN.md)
-- 🔭 I’m currently working on .Net Core.
+<!--- 🔭 I’m currently working on .Net Core.
 - 🌱 I’m currently learning .Net Core.
 - 👯 I’m looking to collaborate on .Net Core.
 - 🤔 I’m looking for help with .Net Core.
-- 💬 Ask me about How to use winform.
+- 💬 Ask me about How to use winform.-->
 - 📫 How to reach me: zicl@qq.com.
 - 😄 Pronouns: little tortoise<!--Little Turtle-->.
 - ⚡ Fun fact: The sun went round again.
