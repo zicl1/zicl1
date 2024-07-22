@@ -19,7 +19,7 @@ My name is zichen.
 - 🤔 I’m looking for help with .Net Core.
 - 💬 Ask me about How to use winform.-->
 - 📫 How to reach me: zicl@qq.com.
-- 😄 Pronouns: Little turtle<!--Little Turtle-->.
+<!--- 😄 Pronouns: Little turtleLittle Turtle.-->
 - ⚡ Fun fact: The sun went round again.
 
 <!--
