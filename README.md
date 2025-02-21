@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-My name is zichen.
-[中文版](https://github.com/zichenlbl/zichenlbl/blob/main/README_zh-CN.md)
+My name is Zichen.
+[中文版](https://github.com/zicl1/zicl1/blob/main/README_zh-CN.md)
 <!--- 🔭 I’m currently working on .Net Core.
 - 🌱 I’m currently learning .Net Core.
 - 👯 I’m looking to collaborate on .Net Core.
@@ -23,20 +23,19 @@ My name is zichen.
 - ⚡ Fun fact: The sun went round again.
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenlbl)](https://github.com/zichenlbl)
-[![zichenlbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=zichenlbl&show_icons=true)](https://github.com/zichenlbl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zicl1)](https://github.com/zicl1)
+[![zicl1's GitHub stats](https://github-readme-stats.vercel.app/api?username=zicl1&show_icons=true)](https://github.com/zicl1)
 -->
 <!-- 
-  ![zichenlbl's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zichenlbl)
-  <a href="https://github.com/zichenlbl/git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zichenlbl&repo=git" />
+  ![zicl1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zicl1)
+  <a href="https://github.com/zicl1/git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zicl1&repo=git" />
   </a>
   <a href="https://github.com/JavaWeb-Basics">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zichenlbl&repo=JavaWeb-Basics" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zicl1&repo=JavaWeb-Basics" />
   </a> 
 -->
 <!--
 Other：
   - Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 -->
-
