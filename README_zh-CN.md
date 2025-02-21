@@ -11,9 +11,9 @@
 - 😄 代名词: 小乌龟。
 - ⚡ 趣事: 太阳又转了一圈。
 
-[![zichenlbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=zichenlbl&show_icons=true)](https://github.com/zichenlbl)
+[![zichenlbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=zicl1&show_icons=true)](https://github.com/zicl1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zichenlbl)](https://github.com/zichenlbl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zicl1)](https://github.com/zicl1)
 
 其他：
   - 由 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 提供支持
